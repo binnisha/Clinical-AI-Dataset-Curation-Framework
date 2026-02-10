@@ -9,7 +9,7 @@
 
 **Author:** Binisha Thakur | **Date:** February 3, 2026
 
-[View Full Report](Clinical_Dataset_Curation.pdf) • [Datasets](#datasets-analyzed) • [Framework](#framework-overview) • [Results](#key-findings)
+[View Full Report](Clinical%20Dataset%20Curation.pdf) • [Datasets](#datasets-analyzed) • [Framework](#framework-overview) • [Results](#key-findings)
 
 ---
 
