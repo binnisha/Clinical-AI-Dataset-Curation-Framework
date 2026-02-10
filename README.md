@@ -276,6 +276,24 @@ flowchart TD
 
 ---
 
+## Annotation Tools & Interface
+
+### 3D Slicer - Medical Image Annotation Platform
+
+<div align="center">
+  <img src="images/3D_Slicer_Interface.jpg" alt="3D Slicer Interface showing multi-planar CT reconstruction" width="900">
+  <p><i>3D Slicer interface displaying axial, coronal, and sagittal views of thoracic CT scan from LIDC-IDRI dataset. This open-source platform enables standardized nodule annotation with lung window settings (Level: -600, Window: 1500) across all three anatomical planes.</i></p>
+</div>
+
+**Key Features:**
+- **Multi-planar Reconstruction:** Simultaneous axial, coronal, and sagittal views for comprehensive nodule assessment
+- **DICOM Compatibility:** Direct import of medical imaging standards
+- **Measurement Tools:** Precise diameter and volume calculations
+- **Standardized Window Settings:** Consistent lung visualization across all annotations
+- **3D Visualization:** Optional volumetric rendering for complex nodule morphology
+
+---
+
 ## Future Work
 
 - [ ] Implement multi-site prospective validation
